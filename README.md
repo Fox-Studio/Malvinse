@@ -67,12 +67,6 @@ Packed Binaries: .exe, .dll with entropy > 7.8
 
 Fallback: Quarantine if delete fails
 
-🖼️ Screenshots
-
-### Main Scanner Tab
-![Scanner Tab](<img width="992" height="674" alt="Screenshot 2025-09-10 175833" src="https://github.com/user-attachments/assets/150cf739-51bc-425d-bb1f-5ead8f9df378" />)
-
-
 🧰 File Structure
 Code
 malvinse-by-foxsafety/
