@@ -26,10 +26,8 @@
 
 ## 📦 Installation
 
-```bash
-git clone https://github.com/yourusername/malvinse-by-foxsafety.git
-cd malvinse-by-foxsafety
-python malvinse.py
+You can download it from our website ```https://fox-studio.github.io/F-ox-Safety/malvinse-download.html```
+
 No pip installs required. Just run it.
 
 🔍 How It Works
