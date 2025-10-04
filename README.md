@@ -2,6 +2,8 @@
 
 **Malvinse** is a hybrid malware scanner built for streamers, developers, and power users who demand real cleaning — not just quarantine. It combines offline detection (hash, entropy, extension) with online reputation checks via VirusTotal, and pulls privacy policies for scanned products. No pip installs. No fluff. Just results.
 
+[![Language Used](![Static Badge](https://img.shields.io/badge/Uses_Python-blue](python.org)
+
 ---
 
 ## 🚀 Features
